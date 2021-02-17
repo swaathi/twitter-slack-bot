@@ -1,5 +1,5 @@
 # twitter-slack-bot
-ActiveState tutorial to built a Twitter Slack Bot
+ActiveState tutorial to build a Twitter Slack Bot
 
 # Install dependencies
 
